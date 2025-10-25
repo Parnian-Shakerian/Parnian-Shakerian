@@ -6,13 +6,13 @@ Let me give a brief introduction to get to know me better! I hold a Bachelor of 
 ## 💼 My Works
 
 🤖 **AI & Machine Learning**  
-Designing and implementing algorithms for complex prediction and classification tasks. Expertise in neural networks, GP, and AI solutions for function approximation and trait prediction in high-dimensional datasets.
+Implementing algorithms for complex prediction and classification tasks. Expertise in neural networks, GP, and AI solutions for function approximation and trait prediction in high-dimensional datasets.
 
 🧠 **Neural Network & Deep Learning Projects**  
-experimenting with MLPs and other architectures to tackle supervised learning problems. analyzing the impact of training parameters, data complexity, and noise to optimize performance.
+experimenting with MLPs to tackle supervised learning problems. analyzing the impact of training parameters, data complexity, and noise to optimize performance.
 
 🌲 **Decision Tree & Classical ML Models**  
-Implementation of interpretable models like Decision Trees and SVM for structured datasets with focus on entropy calculation, information gain, optimal feature selection, and model evaluation to extract meaningful insights from data.
+Implementing interpretable models like Decision Trees and SVM for structured datasets with focus on entropy calculation, information gain, optimal feature selection, and model evaluation.
 
 ⚡ **Anomaly Detection & Probabilistic Modeling**  
 Developing models for anomaly detection across high-dimensional datasets using Gaussian probabilistic approaches. optimizing thresholds via cross-validation and evaluating performance across low- and high-dimensional datasets.
