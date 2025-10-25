@@ -28,7 +28,7 @@ working extensively with key libraries and frameworks integrating them into effi
 - Teaching Assistant: Compiler Design, Signals and Systems, Digital Electronics, Internet Engineering, Database Laboratory, Computer Networks Laboratory
 
 ## 🛠️ Skills
-- **Programming Languages**: ython, C, C++, C#, JavaScript, SQL, HTML, Tailwind
+- **Programming Languages**: Python, C, C++, JavaScript, SQL, HTML, Tailwind
 - **Libraries & Frameworks**: TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, React.js
 - **Environments and Tools**: VS Code, Jupyter-notebook, Git, Postman, Linux (Ubuntu), MS Office, LaTeX
 - **Machine Learning**: Supervised Learning (Linear/Logistic Regression, Neural Networks, Decision Trees, Random Forests) and Unsupervised Learning (Clustering, Anomaly Detection)
