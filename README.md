@@ -2,6 +2,10 @@
 
 Let me give a brief introduction to get to know me better! I hold a Bachelor of Science in Computer Engineering. I’m enthusiastic about creating intelligent systems that can truly make a difference in this world by improving human lives ever so significantly. I enjoy working with algorithms, data, and mathematical concepts, as I see them as some form of puzzle. And let's be real, who doesn’t like interesting puzzles! I’m constantly learning, exploring new innovations to expand my horizons and strive to become a better version of myself each and every day.
 
+## 🏆 Accomplishments
+- Ranked among the Top **10% GPA** in a **class of 165**.
+- Awarded the university scholarship, granting a **full tuition waiver** throughout the academic program.
+- Ranked within the **top 3.0%** of **167,000 applicants** in the National University Entrance Exam.
 
 ## 💼 My Works
 
@@ -32,13 +36,6 @@ working extensively with key libraries and frameworks integrating them into effi
 - **Libraries & Frameworks**: TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, React.js
 - **Environments and Tools**: VS Code, Jupyter-notebook, Git, Postman, Linux (Ubuntu), MS Office, LaTeX
 - **Machine Learning**: Supervised Learning (Linear/Logistic Regression, Neural Networks, Decision Trees, Random Forests) and Unsupervised Learning (Clustering, Anomaly Detection)
-
-
-## 🏆 Accomplishments
-- Ranked among the Top **10% GPA** in a **class of 165**.
-- Awarded the university scholarship, granting a **full tuition waiver** throughout the academic program.
-- Ranked within the **top 3.0%** of **167,250 applicants** in the Iranian University Entrance Exam.
-
 
 ## 🌐 Let's Connect
 - 💻 [GitHub](https://github.com/Parnian-Shakerian)
