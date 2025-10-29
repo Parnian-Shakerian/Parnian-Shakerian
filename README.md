@@ -18,8 +18,8 @@ Experimenting with MLPs for supervised learning, analyzing the impact of trainin
 🌲 **Classical ML Models**  
 Implementing interpretable models (Decision Trees, SVM) for structured datasets, focusing on entropy, information gain, optimal feature selection, and model evaluation.
 
-⚡ **Probabilistic Modeling**  
-Developing models for anomaly detection using Gaussian probabilistic approaches. Optimization via cross-validation and performance evaluation across varying dimensional datasets.
+<!-- ⚡ **Probabilistic Modeling**  
+Developing models for anomaly detection using Gaussian probabilistic approaches. Optimization via cross-validation and performance evaluation across varying dimensional datasets.-->
 
 💡 **Web Development**  
 contribution to web platforms, including front-end development and RESTful APIs.
