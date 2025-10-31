@@ -40,3 +40,4 @@ working extensively with key libraries and frameworks integrating them into effi
 ## 🌐 Let's Connect
 - 💻 [GitHub](https://github.com/Parnian-Shakerian)
 - 🔗 [LinkedIn](http://www.linkedin.com/in/parnian-shakerian)
+- 📫 [Parnianshakerian81@gmail.com](mailto:parnianshakerian81@gmail.com)
