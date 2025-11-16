@@ -28,8 +28,8 @@ contribution to web platforms, including front-end development and RESTful APIs.
 working extensively with key libraries and frameworks integrating them into efficient workflows for research and practical applications.
 
 
-## 📚 Teaching Experience
-- Teaching Assistant: Compiler Design, Signals and Systems, Digital Electronics, Internet Engineering, Database Laboratory, Computer Networks Laboratory
+<!--## 📚 Teaching Experience
+- Teaching Assistant: Compiler Design, Signals and Systems, Digital Electronics, Internet Engineering, Database Laboratory, Computer Networks Laboratory -->
 
 ## 🛠️ Skills
 - **Programming Languages**: Python, C++, JavaScript, SQL, HTML, Tailwind
