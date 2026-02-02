@@ -14,6 +14,7 @@ Implementing algorithms for trait prediction and classification. Expertise in ne
 
 🧠 **Classical ML Models & Deep Learning Application**  
 Experimenting with MLPs for supervised learning, analyzing the impact of training parameters, data complexity, and noise to optimize performance.
+
 Implementing interpretable models (Decision Trees, SVM) for structured datasets, focusing on entropy, information gain, optimal feature selection, and model evaluation.
 <!-- ⚡ **Probabilistic Modeling 
 🌲 ****  **  
