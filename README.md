@@ -12,13 +12,11 @@ Let me give a brief introduction! I hold a Bachelor of Science in Computer Engin
 🤖 **AI & Machine Learning**  
 Implementing algorithms for trait prediction and classification. Expertise in neural networks, GP, and AI solutions for function approximation in high-dimensional datasets.
 
-🧠 **Deep Learning Application**  
+🧠 **Classical ML Models & Deep Learning Application**  
 Experimenting with MLPs for supervised learning, analyzing the impact of training parameters, data complexity, and noise to optimize performance.
-
-🌲 **Classical ML Models**  
 Implementing interpretable models (Decision Trees, SVM) for structured datasets, focusing on entropy, information gain, optimal feature selection, and model evaluation.
-
-<!-- ⚡ **Probabilistic Modeling**  
+<!-- ⚡ **Probabilistic Modeling 
+🌲 ****  **  
 Developing models for anomaly detection using Gaussian probabilistic approaches. Optimization via cross-validation and performance evaluation across varying dimensional datasets.-->
 
 💡 **Web Development**  
@@ -40,4 +38,4 @@ working extensively with key libraries and frameworks integrating them into effi
 ## 🌐 Let's Connect
 - 💻 [GitHub](https://github.com/Parnian-Shakerian)
 - 🔗 [LinkedIn](http://www.linkedin.com/in/parnian-shakerian)
-- 📫 [Parnianshakerian81@gmail.com](mailto:parnianshakerian81@gmail.com)
+<!-- - 📫 [Parnianshakerian81@gmail.com](mailto:parnianshakerian81@gmail.com)-->
