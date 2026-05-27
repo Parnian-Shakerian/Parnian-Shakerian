@@ -37,6 +37,6 @@ working extensively with key libraries and frameworks integrating them into effi
 - **Machine Learning**: Supervised Learning (Linear/Logistic Regression, Neural Networks, Decision Trees, Random Forests) and Unsupervised Learning (Clustering, Anomaly Detection)
 
 ## 🌐 Let's Connect
-- 💻 [GitHub](https://github.com/Parnian-Shakerian)
+<!-- - 💻 [GitHub](https://github.com/Parnian-Shakerian)-->
 - 🔗 [LinkedIn](http://www.linkedin.com/in/parnian-shakerian)
 <!-- - 📫 [Parnianshakerian81@gmail.com](mailto:parnianshakerian81@gmail.com)-->
