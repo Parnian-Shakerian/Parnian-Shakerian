@@ -11,11 +11,15 @@ I’m enthusiastic about creating intelligent systems that can truly make a diff
 
 ## 💼 My Works
 
-🤖 **AI & Machine Learning**  
+🤖 **AI & Machine Learning**
+Developing models for prediction, classification, and approximation. Experience with neural networks, feature selection, and model evaluation across structured and high-dimensional datasets. Analyzing the impact of training parameters, data complexity, and noise to optimize performance. 
+
+<!-- 🤖 **AI & Machine Learning**  
 Implementing algorithms for trait prediction and classification. Expertise in neural networks, GP, and AI solutions for function approximation in high-dimensional datasets.
 
 🧠 **Classical ML Models & Deep Learning Application**  
-Experimenting with MLPs for supervised learning, analyzing the impact of training parameters, data complexity, and noise to optimize performance. Implementing interpretable models for structured datasets, optimal feature selection, and model evaluation.
+Experimenting with MLPs for supervised learning, analyzing the impact of training parameters, data complexity, and noise to optimize performance. Implementing interpretable models for structured datasets, optimal feature selection, and model evaluation.-->
+
 <!-- ⚡ **Probabilistic Modeling 
 🌲 ****  **  focusing on entropy, information gain
 Developing models for anomaly detection using Gaussian probabilistic approaches. Optimization via cross-validation and performance evaluation across varying dimensional datasets.-->
