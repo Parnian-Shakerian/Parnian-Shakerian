@@ -12,8 +12,7 @@ I’m enthusiastic about creating intelligent systems that can truly make a diff
 ## 💼 My Works
 
 🤖 **AI & Machine Learning**  
-Developing models for prediction, classification, and approximation. Experience with feature selection, and model evaluation across structured and high-dimensional datasets.
-Analyzing the impact of training parameters, data complexity, and noise to optimize performance. 
+Developing models for prediction, classification, and approximation. Experience with feature selection, model evaluation, and performance optimization across structured and high-dimensional datasets.
 
 <!-- 🧠 **Classical ML Models & Deep Learning Application**  
 Experimenting with MLPs for supervised learning, analyzing the impact of training parameters, data complexity, and noise to optimize performance. Implementing interpretable models for structured datasets, optimal feature selection, and model evaluation.-->
